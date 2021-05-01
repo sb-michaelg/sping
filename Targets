@@ -64,9 +64,9 @@ title = MamaRouter
 host = 192.147.241.162
 
 #++LeberOrthAlvernon
-menu = Leber Orth Alv
-title = Leber Orth Alv
-host = 67.212.196.90
+#menu = Leber Orth Alv
+#title = Leber Orth Alv
+#host = 67.212.196.90
 
 ++AIU
 menu = AIU
