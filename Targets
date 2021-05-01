@@ -121,10 +121,10 @@ menu = Yahoo
 title = Yahoo
 host = www.yahoo.com
 
-#+facebook
-#menu = Facebook
-#title = Facebook
-#host = www.facebook.com
++facebook
+menu = Facebook
+title = Facebook
+host = www.facebook.com
 
 + Local
 
