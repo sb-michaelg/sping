@@ -126,6 +126,11 @@ menu = Facebook
 title = Facebook
 host = www.facebook.com
 
++msn
+menu = msn
+title = msn
+host = www.msn.com
+
 + Local
 
 menu = Local
