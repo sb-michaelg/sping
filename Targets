@@ -92,12 +92,11 @@ menu = Cooler Guy 7004
 title = Cooler Guy 7004
 host = 67.212.195.211:8080
 
-+ PBX
-
++PBX
 menu = PBX
 title = PBX
 
-++ pbxa
+++pbxa
 menu = pbxa
 title = pbxa
 host = pbxa.simplybits.net
@@ -116,6 +115,16 @@ host = pbxd.simplybits.net
 menu = Google
 title = Google 8.8.8.8
 host = 8.8.8.8
+
++yahoo
+menu = Yahoo
+title = Yahoo
+host = www.yahoo.com
+
++facebook
+menu = Facebook
+title = Facebook
+host = www.facebook.com
 
 + Local
 
