@@ -112,10 +112,10 @@ menu = pbxd
 title = pbxd
 host = pbxd.simplybits.net
 
-+Google
-menu = Google
-title = Google 8.8.8.8
-host = 8.8.8.8
+#+Google
+#menu = Google
+#title = Google 8.8.8.8
+#host = 8.8.8.8
 
 + Local
 
