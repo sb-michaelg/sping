@@ -119,7 +119,7 @@ host = 8.8.8.8
 +yahoo
 menu = Yahoo
 title = Yahoo
-host = www.yahoo.com
+host = yahoo.com
 
 +facebook
 menu = Facebook
@@ -130,6 +130,11 @@ host = www.facebook.com
 menu = MSN
 title = MSN
 host = www.msn.com
+
++msnbc
+menu = MSNBC
+title = MSNBC
+host = www.msnbc.com
 
 + Local
 
