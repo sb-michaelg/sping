@@ -68,7 +68,7 @@ menu = Leber Orth Alv
 title = Leber Orth Alv
 host = 67.212.196.90
 
-++AIU 
+++AIU
 menu = AIU
 title = AIU
 
@@ -111,6 +111,11 @@ host = pbx8.simplybits.net
 menu = pbxd
 title = pbxd
 host = pbxd.simplybits.net
+
++Google
+menu = Google
+title = Google 8.8.8.8
+host = 8.8.8.8
 
 + Local
 
