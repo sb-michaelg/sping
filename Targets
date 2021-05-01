@@ -1,0 +1,124 @@
+*** Targets ***
+
+probe = FPing
+
+menu = Top
+title = Network Latency Grapher
+remark = Welcome to the SmokePing website of xxx Company. \
+         Here you will learn all about the latency of our network.
+
++ Customers
+menu = Customers
+title = Customers
+
+++wickGV
+menu = Wick GV
+title = Wick GV
+
++++SahuBB
+menu = Sahuarita BB
+title = Sahuarita BB
+host = 64.119.33.18
+
++++gvCanopyRouter
+menu = GV Canopy Router
+title = GV Canopy Router 10.46.3.165
+host = 10.46.3.165
+
++++wickGV
+menu = Wick GV SM
+title = Wick GV SM 10.46.3.165
+host = 10.46.3.165
+
++++wickGVRouter
+menu = Wick GV Router
+title = Wick GV Router 67.212.206.184
+host = 67.212.206.184
+
+++cti
+menu = CTI
+title = CTI
+
++++ctiSM
+menu = CTI SM
+title = CTI SM
+host = 10.84.2.149
+
++++ctiMain
+menu = CTI Main Router
+title = CTI Main Router
+host = 64.119.44.14
+
+++MamaOracle
+menu = Mama's Oracle
+title = Mama's Oracle
+
++++MamaSM
+menu = MamaSM
+title = MamaSM
+host = 10.84.3.130
+
++++MamaRouter
+menu = MamaRouter
+title = MamaRouter
+host = 192.147.241.162
+
+++LeberOrthAlvernon
+menu = Leber Orth Alv
+title = Leber Orth Alv
+host = 67.212.196.90
+
+++AIU 
+menu = AIU
+title = AIU
+
++++aiuTang
+menu = AIU Tangerine
+title = AIU Tangerine
+host = 10.253.2.83
+
++++aiuProf
+menu = AIU Prof
+title = AIU Prof
+host = 10.253.2.82
+
+++CoolerGuyRouter
+menu = Cooler Guy Router
+title = Cooler Guy Router
+host = 67.212.195.221
+
+++CoolerGuy7004
+menu = Cooler Guy 7004
+title = Cooler Guy 7004
+host = 67.212.195.211:8080
+
++ PBX
+
+menu = PBX
+title = PBX
+
+++ pbxa
+menu = pbxa
+title = pbxa
+host = pbxa.simplybits.net
+
+++pbx8
+menu = pbx8
+title = pbx8
+host = pbx8.simplybits.net
+
+++pbxd
+menu = pbxd
+title = pbxd
+host = pbxd.simplybits.net
+
++ Local
+
+menu = Local
+title = Local Network
+#parents = owner:/Test/James location:
+
+++ LocalMachine
+menu = Local Machine
+title = Local Machine
+host = localhost
