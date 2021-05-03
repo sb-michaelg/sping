@@ -122,11 +122,6 @@ menu = Google
 title = Google 8.8.8.8
 host = 8.8.8.8
 
-+yahoo
-menu = Yahoo
-title = Yahoo
-host = yahoo.com
-
 +facebook
 menu = Facebook
 title = Facebook
