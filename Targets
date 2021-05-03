@@ -11,10 +11,6 @@ remark = Welcome to the SmokePing website of xxx Company. \
 menu = Customers
 title = Customers
 
-++PPS
-menu = PPS
-title = PPS
-host = 67.212.203.141
 
 ++accurateService
 menu = Accurate Service
