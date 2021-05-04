@@ -11,6 +11,24 @@ remark = Welcome to the SmokePing website of xxx Company. \
 menu = Customers
 title = Customers
 
+++CMG
+menu = CMG
+title = CMG
+
++++Router
+menu = CMG Router
+title = CMG Router
+host = 64.119.35.124
+
++++Shana7162
+menu = Shana 7162
+title = Shana 7162
+host = 67.212.195.125
+
++++MaryAnn7104
+menu = MaryAnn 7104
+title = MaryAnn 7104
+host = 64.212.195.126
 
 ++accurateService
 menu = Accurate Service
