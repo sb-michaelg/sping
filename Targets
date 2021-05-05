@@ -29,6 +29,16 @@ host = 67.212.197.102
 menu = CMG
 title = CMG
 
++++coreDC1
+menu = coreDC1
+title = coreDC1 10.249.2.69
+host = 10.249.2.69
+
++++6567MTU
+menu = 6567MTU
+title = 6567MTU 64.119.34.104
+host = 64.119.34.104
+
 +++Router
 menu = CMG Router
 title = CMG Router
