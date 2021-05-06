@@ -69,6 +69,11 @@ menu = Sahuarita BB
 title = Sahuarita BB
 host = 64.119.33.18
 
++++gvAP5
+menu = GV AP 5
+title = GV AP 5 10.46.75.1
+host = 10.46.75.1
+
 +++gvCanopyRouter
 menu = GV Canopy Router
 title = GV Canopy Router 10.46.0.1
