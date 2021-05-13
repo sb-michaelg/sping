@@ -11,6 +11,16 @@ remark = Welcome to the SmokePing website of xxx Company. \
 menu = Customers
 title = Customers
 
+++bestAuto
+menu = bestAuto
+title = bestAuto
+host = 64.119.39.30
+
+++hvfPrecious
+menu = hvfPrecious
+title = hvfPrecious
+host = 67.212.194.22
+
 ++mgmAssoc
 menu = MGM Associates
 title = MGM Associates
