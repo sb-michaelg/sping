@@ -7,6 +7,34 @@ title = Network Latency Grapher
 remark = Welcome to the SmokePing website of xxx Company. \
          Here you will learn all about the latency of our network.
 
++sites
+menu = sites
+title = sites
+
+++cc
+menu = cc
+title = cc
+
++++ccCanopy
+menu = ccCanopy
+title = ccCanopy
+host = 10.23.0.1
+
++++cc450mSec2
+menu = cc450mSec2
+title = cc450mSec2
+host = 10.23.52.1
+
++++cc450mSec4
+menu = cc450mSec4
+title = cc450mSec4
+host = 10.23.54.1
+
++++cc450Sec2
+menu = cc450Sec2
+title = cc450Sec2
+host = 10.23.72.1
+
 + Customers
 menu = Customers
 title = Customers
