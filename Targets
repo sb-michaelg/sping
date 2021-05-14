@@ -8,8 +8,8 @@ remark = Welcome to the SmokePing website of xxx Company. \
          Here you will learn all about the latency of our network.
 
 +sites
-menu = sites
-title = sites
+menu = Sites
+title = Sites
 
 ++cc
 menu = cc
