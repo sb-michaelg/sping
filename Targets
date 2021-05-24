@@ -39,6 +39,20 @@ host = 10.23.72.1
 menu = Customers
 title = Customers
 
+++titanTranVal
+menu = titanTranVal
+title = titanTranVal
+
++++titanTranSM
+menu = titanTranSM
+title = titanTranSM
+host = 10.23.2.144
+
++++titanTranRouter
+menu = titanTranRouter
+title = titanTranRouter
+host = 67.212.201.74
+
 ++sheftelOV
 menu = sheftelOV
 title = sheftelOV
