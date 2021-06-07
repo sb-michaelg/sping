@@ -56,7 +56,7 @@ host = 192.88.109.218
 +++grsMMCom
 menu = grsMMCom
 title = grsMMCom
-host = 68.110.168.128
+host = 68.110.168.131
 
 +++grsMMSb
 menu = grsMMSb
