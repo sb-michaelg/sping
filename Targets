@@ -35,9 +35,34 @@ menu = cc450Sec2
 title = cc450Sec2
 host = 10.23.72.1
 
-+ Customers
++Customers
 menu = Customers
 title = Customers
+
+++GRS
+menu = GRS
+title = GRS
+
++++grsPaloCom
+menu = grsPaloCom
+title = grsPaloCom
+host = 68.14.227.199
+
++++grsPaloSb
+menu = grsPaloSb
+title = grsPaloSb
+host = 192.88.109.218
+
++++grsMMCom
+menu = grsMMCom
+title = grsMMCom
+host = 68.110.168.128
+
++++grsMMSb
+menu = grsMMSb
+title = grsMMSb
+host = 64.119.45.242
+
 
 ++titanTranVal
 menu = titanTranVal
