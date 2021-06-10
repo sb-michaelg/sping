@@ -39,6 +39,11 @@ host = 10.23.72.1
 menu = Customers
 title = Customers
 
+++dKern
+menu = dKern
+title = dKern
+host = 192.147.241.132
+
 ++GRS
 menu = GRS
 title = GRS
