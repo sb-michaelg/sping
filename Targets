@@ -39,6 +39,20 @@ host = 10.23.72.1
 menu = Customers
 title = Customers
 
+++
+menu = subaru
+tile= subaru
+
++++
+menu = subarutik
+title = subarutik
+host = 67.212.199.168
+
++++
+menu = subaruSonic
+title = subaruSonic
+host = 64.119.45.130
+
 ++dKern
 menu = dKern
 title = dKern
