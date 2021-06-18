@@ -39,6 +39,20 @@ host = 10.23.72.1
 menu = Customers
 title = Customers
 
+++plasticSurg
+menu = plasticSurg
+title = plasticSurg
+
++++plasticSurgRouter
+menu = plasticSurgRouter
+title = plasticSurgRouter
+host = 192.88.109.174
+
++++plasticSurgSM
+menu = plasticSurgSM
+title = plasticSurgSM
+host = 10.58.2.101
+
 ++subaru
 menu = subaru
 title= subaru
