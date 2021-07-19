@@ -39,6 +39,11 @@ host = 10.23.72.1
 menu = Customers
 title = Customers
 
+++LBSbackup
+menu = LBSbackup
+title = LBSbackup
+host = 209.104.17.89
+
 ++furrierValenciaRouter
 menu = furrierValenciaRouter
 title = furrierValenciaRouter
