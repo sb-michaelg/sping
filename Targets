@@ -39,6 +39,21 @@ host = 10.23.72.1
 menu = Customers
 title = Customers
 
+++tucsonPath
+menu = tucsonPath
+title = tucsonPath
+host = 162.211.51.129
+
+++mtuSwaim
+menu = mtuSwaim
+title = mtuSwaim
+host = 67.212.203.207
+
+++LBSbackup
+menu = LBSbackup
+title = LBSbackup
+host = 209.104.17.89
+
 ++LBSbackup
 menu = LBSbackup
 title = LBSbackup
