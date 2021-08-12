@@ -54,11 +54,6 @@ menu = LBSbackup
 title = LBSbackup
 host = 209.104.17.89
 
-++LBSbackup
-menu = LBSbackup
-title = LBSbackup
-host = 209.104.17.89
-
 ++furrierValenciaRouter
 menu = furrierValenciaRouter
 title = furrierValenciaRouter
