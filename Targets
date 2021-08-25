@@ -39,6 +39,11 @@ host = 10.23.72.1
 menu = Customers
 title = Customers
 
+++klimecki
+menu = klimecki
+tile = klimecki
+host = 10.80.1.122
+
 ++tucsonPath
 menu = tucsonPath
 title = tucsonPath
