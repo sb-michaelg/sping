@@ -39,6 +39,16 @@ host = 10.23.72.1
 menu = Customers
 title = Customers
 
+++amandaMiller
+menu = amandaMiller
+title =  amandaMiller
+host = 10.36.1.114
+
+++amandaMillerRouter
+menu = amandaMillerRouter
+title = amandaMillerRouter
+host = 172.16.114.251
+
 ++cumulus
 menu = cumulus
 title = cumulus
