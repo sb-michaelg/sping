@@ -49,6 +49,11 @@ menu = leberHough
 title = leberHough
 host = 162.211.50.117
 
+++leberAlv
+menu = leberAlv
+title = leberAlv
+host = 67.212.196.90
+
 ++amandaMiller
 menu = amandaMiller
 title =  amandaMiller
