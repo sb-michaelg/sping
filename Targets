@@ -39,6 +39,11 @@ host = 10.23.72.1
 menu = Customers
 title = Customers
 
+++cslPlasmaSM
+menu = cslPlasmaSM
+title =  cslPlasmaSM
+host = 10.17.1.102
+
 ++levlCap
 menu = levlCap
 title = levlCap
