@@ -39,6 +39,11 @@ host = 10.23.72.1
 menu = Customers
 title = Customers
 
+++furrierBell
+menu = furrierBell
+title = furrierBell
+host = 24.249.161.196
+
 ++cslPlasmaSM
 menu = cslPlasmaSM
 title =  cslPlasmaSM
