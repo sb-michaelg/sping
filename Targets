@@ -44,6 +44,20 @@ menu = furrierBell
 title = furrierBell
 host = 24.249.161.196
 
+++furrier63
+menu = furrier63
+title = furrier63
+host = 98.182.125.28
+
+++furrierMesa
+menu = furrierMesa
+title = furrierMesa
+host = 184.190.7.233
+
+
+
+
+
 ++cslPlasmaSM
 menu = cslPlasmaSM
 title =  cslPlasmaSM
