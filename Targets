@@ -74,11 +74,6 @@ menu = levlCap
 title = levlCap
 host = 	162.211.48.153
 
-++freeman
-menu = freeman
-title = freeman
-host = 67.212.195.80
-
 ++leberHough
 menu = leberHough
 title = leberHough
