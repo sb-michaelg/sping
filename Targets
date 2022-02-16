@@ -75,6 +75,11 @@ menu = oneMainRouter
 title = oneMainRouter
 host = 64.119.44.10
 
+++oneMainTestIP
+menu = oneMainTestIP
+title = oneMainTestIP
+host = 192.73.248.242
+
 
 
 ++cslPlasmaSM
