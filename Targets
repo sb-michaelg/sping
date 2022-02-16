@@ -70,6 +70,11 @@ menu = oneMain
 title = oneMain
 host = 64.119.44.149
 
+++oneMainRouter
+menu = oneMainRouter
+title = oneMainRouter
+host = 64.119.44.10
+
 
 
 ++cslPlasmaSM
