@@ -350,7 +350,7 @@ menu = MamaSM
 title = MamaSM
 host = 10.84.3.130
 
-++Famous Footwear
+++FamousFootwear
 menu = FamousSM
 title = FamousSM
 host = 10.19.4.160
