@@ -360,6 +360,11 @@ host = 192.147.241.162
 #title = Leber Orth Alv
 #host = 67.212.196.90
 
+++LBS
+menu = LBSrouter
+title = LBSrouter
+host = 162.211.48.209
+
 ++FamousFootwear
 menu = FamousSM
 title = FamousSM
