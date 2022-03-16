@@ -11,6 +11,11 @@ remark = Welcome to the SmokePing website of xxx Company. \
 menu = Sites
 title = Sites
 
+++Skysec52
+menu = Skysec52
+title = Skysec52
+host = 67.212.203.115
+
 ++cc
 menu = cc
 title = cc
@@ -97,6 +102,7 @@ host = 192.73.248.242
 menu = cslPlasmaSM
 title =  cslPlasmaSM
 host = 10.17.1.102
+
 
 ++levlCap
 menu = levlCap
