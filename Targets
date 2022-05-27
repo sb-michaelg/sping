@@ -222,6 +222,10 @@ menu = grsMMSb
 title = grsMMSb
 host = 64.119.45.242
 
+++cardiology
+menu = cardiology
+title = cardiology
+host = 63.227.50.74
 
 ++titanTranVal
 menu = titanTranVal
