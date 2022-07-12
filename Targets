@@ -242,6 +242,16 @@ menu = cactus
 title = cactus
 host = 162.211.49.206
 
+++cactussm
+menu = cactussm
+title = cactussm
+host = 10.67.1.150
+
+++cactusap
+menu = cactusap
+title = cactusap
+host = 10.67.73.1
+
 ++cardiology
 menu = cardiology
 title = cardiology
