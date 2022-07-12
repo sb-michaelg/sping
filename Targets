@@ -227,6 +227,16 @@ menu = fiesta
 title = fiesta
 host = 64.119.43.78
 
+++volvo
+menu = volvo
+title = volvo
+host = 67.212.203.2
+
+++volvogw
+menu = volvogw
+title = volvogw
+host = 67.212.203.1
+
 ++cactus
 menu = cactus
 title = cactus
