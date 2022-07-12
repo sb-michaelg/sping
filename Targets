@@ -222,6 +222,11 @@ menu = grsMMSb
 title = grsMMSb
 host = 64.119.45.242
 
+++darkhorse
+menu = darkhorse
+title = darkhorse
+host = 24.252.216.83
+
 ++fiesta
 menu = fiesta
 title = fiesta
