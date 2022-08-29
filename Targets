@@ -129,6 +129,11 @@ menu = amandaMillerRouter
 title = amandaMillerRouter
 host = 172.16.114.251
 
+++casasrr
+menu = casasrr
+title = casasrr
+host = 162.211.48.82
+
 ++cumulus
 menu = cumulus
 title = cumulus
