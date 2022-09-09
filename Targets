@@ -44,6 +44,11 @@ host = 10.23.72.1
 menu = Customers
 title = Customers
 
+++wrightstown
+menu = wrightstown
+title = wrightstown
+host = 72.216.200.37
+
 ++UCPSA
 menu = UCPSA
 title = UCPSA
